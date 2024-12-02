@@ -7,8 +7,8 @@ use it as referance if it can help you. but write your own. learn. got somewhere
 
 | Day | Part 1 | Part 2 |
 |-----|--------|--------|
-| 1   |    ✅  |    ✅  |
-| 2   |        |        |
+| 1   |  ✅    |   ✅   |
+| 2   |  ✅    |        |
 | 3   |        |        |
 | 4   |        |        |
 | 5   |        |        |
